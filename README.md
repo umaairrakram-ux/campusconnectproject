@@ -5,6 +5,8 @@
 
 **🚀 [🌐 Click Here to Visit Live Website](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)**
 
+[![Live Website](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+
 </div>
 
 # **CampusConnect - Smart University Management Platform**
