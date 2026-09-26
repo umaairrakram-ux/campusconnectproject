@@ -8,7 +8,7 @@
 </div>
 
 # **CampusConnect - Smart University Management Platform**
-### **Complete Project Report - As per Project Report**
+### **Complete Project Report -**
 
 ---
 
