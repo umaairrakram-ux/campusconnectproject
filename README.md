@@ -1,3 +1,12 @@
+<div align="center">
+
+# 🏫 CampusConnect - Smart University Management Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram/CampusConnect-Smart-University-Management-Platform)
+
+**🚀 [🌐 Click Here to Visit Live Website](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)**
+
+</div>
+
 # **CampusConnect - Smart University Management Platform**
 ### **Complete Project Report - As per Project Report**
 
@@ -161,13 +170,3 @@
 ---
 
 **© 2026 CampusConnect - University of Layyah**
-<div align="center">
-
-# 🏫 CampusConnect - Smart University Management Platform
-
-[![Live Website](https://img.shields.io/badge/LIVE%20WEBSITE-Visit%20Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link-here.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram/CampusConnect-Smart-University-Management-Platform)
-
-**🚀 [🌐 Click Here to Visit Live Website](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)**
-
-</div>
